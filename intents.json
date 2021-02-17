@@ -4,6 +4,276 @@
          "responses": ["Hello, thanks for asking", "Good to see you again", "Hi there, how can I help?"],
          "context": [""]
         },
+          {"tag":"cournot",
+            "patterns":["cournot competition"],
+            "responses":["Oligopoly model in which each firm chooses its production quantity"],
+            "context":[""]  
+        },
+          {"tag":"positive_science",
+            "patterns":["positive science"],
+            "responses":["Positive science is concerned with the question of how people deal with the phenomenon of scarcity."],
+            "context":[""]  
+        },
+          {"tag":"normative_science",
+            "patterns":["normative science"],
+            "responses":["Normarive science is concerend with how people should deal with the phenomenon of scarcity."],
+            "context":[""]  
+        },
+          {"tag":"microeconomics",
+            "patterns":["microeconomics"],
+            "responses":["Microeconomics is the study of decision-making of households and firms and the interaction between economic agents."],
+            "context":[""]  
+        },
+          {"tag":"theory",
+            "patterns":["What is a theory?", "theory"],
+            "responses":["A theory is a reasonable conjecture about the cuntioning of some aspects of the world."],
+            "context":[""]  
+        },
+          {"tag":"bertrand",
+            "patterns":["bertrand competition"],
+            "responses":["Oligopoly model in which each firm chooses the price of its product"],
+            "context":[""]  
+        },
+          {"tag":"reasonable",
+            "patterns":["What does reasonable mean?"],
+            "responses":["Reasonable means that there is a consensus among scientists about acceptable methods and procedures. "],
+            "context":[""]  
+        },
+          {"tag":"macroeconomics",
+            "patterns":["What is macroeconomics?"],
+            "responses":["Macroeconomics foucuses on the functioning of the economy as a whole"],
+            "context":[""]  
+        },
+          {"tag":"dominant_strategy",
+            "patterns":["dominant strategy"],
+            "responses":["A strategy that is the best for a firm, no matter what strategies other firms use"],
+            "context":[""]  
+        },
+          {"tag":"nash_equilibrium",
+            "patterns":["Nash Equilibrium"],
+            "responses":["A situation in which economic actors interacting with one another each choose their best strategy given the strategies that all the other actors have chosen"],
+            "context":[""]  
+        },
+          {"tag":"pork_cycle",
+            "patterns":["pork cycle"],
+            "responses":["The pork cycle describes an economic phenomenon on the interaction level which deals with the interaction between people and firms"],
+            "context":[""]  
+        },
+          {"tag":"best_response_function",
+            "patterns":["best response function"],
+            "responses":["It gives the best response for all possible strategies of all other players"],
+            "context":[""]  
+        },
+          {"tag":"circular_flow_model",
+            "patterns":["circular-flow model"],
+            "responses":["The circular/flow model explains that, within an economy consisting solely of private households and firms, the sum of expenses for consumption must equal the income factors"],
+            "context":[""]  
+        },
+          {"tag":"prisioners_dilemma",
+            "patterns":["prisioners dilemma"],
+            "responses":["A particular \"game\" between two captured prisoners that illustrates why cooperation is difficult to maintain even when it is mutually beneficial"],
+            "context":[""]  
+        },
+          {"tag":"definition_game_theory",
+            "patterns":["game theory"],
+            "responses":["The study of how people behave in strategic situations. Do you want to know more about game theory?"],
+            "context":["forms_of_game_theory_yes"]  
+        },
+          {"tag":"opportunity_cost",
+            "patterns":["opportunity cost"],
+            "responses":["Opportunity cost is the loss of potential gain from choosing one alternative over another."],
+            "context":[""]  
+        },
+        {"tag":"forms_of_game_theory_yes",
+          "patterns":["Yes"],
+          "responses":["There are normal and extensive games"],
+          "context":[""]  
+        },
+          {"tag":"product_bundling",
+            "patterns":["product bundling"],
+            "responses":["Sale of 2 or more separate products in one package"],
+            "context":[""]  
+        },
+          {"tag":"economics_goal",
+            "patterns":["goal of economics"],
+            "responses":["The goal of economics is to maximise utility and hence minimise opportunity costs."],
+            "context":[""]  
+        },
+          {"tag":"sunk_cost",
+            "patterns":["sunk costs"],
+            "responses":["Sunk costs are costs that have already been incurred and cannot be recovered."],
+            "context":[""]  
+        },
+          {"tag":"price_discrimination_1",
+            "patterns":["first degree price discrimination"],
+            "responses":["Charging each individual customer a different price based on their willingness to pay. There is no consumer surplus!"],
+            "context":["price_discrimination_2"]  
+        },
+          {"tag":"price_discrimination_2",
+            "patterns":["second degree price discrimination"],
+            "responses":["Occurs when consumers are charged different prices based on characteristics of their purchase e.g. phone bill"],
+            "context":["price_discrimination_3"]  
+        },
+          {"tag":"price_discrimination_3",
+            "patterns":["third degree price discrimination"],
+            "responses":["Charging different prices to different demographic market segments"],
+            "context":[""]  
+        },
+          {"tag":"comparative_advantage",
+            "patterns":["comparative advantage"],
+            "responses":["The theory of comparative advantage contends that a country should make and then sell those products it produces most efficiently but buy those it cannot produce as efficiently (why do individuals trade?)"],
+            "context":[""]  
+        },
+          {"tag":"autarky",
+            "patterns":["autarky"],
+            "responses":["Autarky describes a situatino in which a country does not trade with other countries and is entirely independent.."],
+            "context":[""]  
+        },
+          {"tag":"theory_of_trade",
+            "patterns":["theory of trade"],
+            "responses":["A country with comparative disadvantage in the production of a good should import such good from other countries. It may specialise and export a good for which it has a comparative advantage."],
+            "context":[""]  
+        },
+          {"tag":"price_effect",
+            "patterns":["price effect"],
+            "responses":["It measures the effect on the change of revenue by price change. Do you want to hear the formula?"],
+            "context":["formula_price_effect"]  
+        },
+          {"tag":"formula_price_effect",
+            "patterns":["yes"],
+            "responses":["p'(x) * x"],
+            "context":[""]  
+        },
+          {"tag":"quantity_effect",
+            "patterns":["quantity effect"],
+            "responses":["It measures the effect on revenue by increasing quantity"],
+            "context":[""]  
+        },
+          {"tag":"bilateral_monopoly",
+            "patterns":["bilateral monopoly"],
+            "responses":["A bilateral monopoly is a market with just one single seller and only one single buyer"],
+            "context":[""]  
+        },
+          {"tag":"pricing_perfect_competition",
+            "patterns":["pricing in perfect competition"],
+            "responses":["In perfect competitions, any individual firm is so small that it cannot influence the equilibrium price. Therefore firms are price-takers"],
+            "context":[""]  
+        },
+          {"tag":"restricted_monopoly",
+            "patterns":["restricted monopoly"],
+            "responses":["A market in which is only one seller but few buyers"],
+            "context":[""]  
+        },
+          {"tag":"monopoly",
+            "patterns":["monopoly"],
+            "responses":["A monopoly is a market in which are many buyers but only one seller."],
+            "context":[""]  
+        },
+          {"tag":"pricing_monopolist",
+            "patterns":["pricing in monopol"],
+            "responses":["As a price-maker since they control the market price. However, it has to consider the actual elasticity of the market demand function"],
+            "context":[""]  
+        },
+          {"tag":"restricted_monopsony",
+            "patterns":["restricted monopsony"],
+            "responses":["A market with few sellers but only one buyer"],
+            "context":[""]  
+        },
+          {"tag":"bilateral_ologopoly",
+            "patterns":["bilateral ologopoly"],
+            "responses":["A market with few buyers and few sellers"],
+            "context":[""]  
+        },
+          {"tag":"marginal_cost",
+            "patterns":["marginal cost"],
+            "responses":["The extra cost incurred by producing one more unit of a product"],
+            "context":[""]  
+        },
+          {"tag":"oligopoly",
+            "patterns":["oligopoly"],
+            "responses":["An oligopoly is a market with few sellers and many buyers"],
+            "context":[""]  
+        },
+          {"tag":"monopsony",
+            "patterns":["monopsony"],
+            "responses":["A market in which are many sellers but only one buyer"],
+            "context":[""]  
+        },
+          {"tag":"average_fixed_cost",
+            "patterns":["average variable cost function,  AVC"],
+            "responses":["AFC = FC / Q"],
+            "context":["average_variable_cost"]  
+        },
+          {"tag":"oligopsony",
+            "patterns":["oligopsony"],
+            "responses":["A market with many sellers and few buyers. "],
+            "context":[""]  
+        },
+          {"tag":"Polypoly",
+            "patterns":["polypoly"],
+            "responses":["A polypoly is a market characterised by many sellers and many buyers."],
+            "context":[""]  
+        },
+          {"tag":"average_variable_cost",
+            "patterns":["average variable cost function, AVC"],
+            "responses":["AVC = FC / Q"],
+            "context":["average_fixed_cost"]  
+        },
+          {"tag":"average_cost",
+            "patterns":["average cost, AC"],
+            "responses":["Total costs per unit of output"],
+            "context":[""]  
+        },
+          {"tag":"marginal_product",
+            "patterns":["marginal product"],
+            "responses":["It measures by how much production increases if another unit of a factor (input) is employed"],
+            "context":["marginal_product_function"]  
+        },
+          {"tag":"marginal_product_function",
+            "patterns":["calculation of marginal product"],
+            "responses":["dx/dl= dF(I)/ dl"],
+            "context":[""]  
+        },
+          {"tag":"market_supply",
+            "patterns":["market supply represent"],
+            "responses":["With a given number of firms, it represents the sum of individual supplies. With free market entry and exit, market supply curve is perfectly elastic at the price equalling minimum AC (MC = AC)"],
+            "context":[""]  
+        },
+          {"tag":"public_goods",
+            "patterns":["public goods"],
+            "responses":["Goods that are neither excludable nor rival in consumption"],
+            "context":["common_goods"]  
+        },
+          {"tag":"common_goods",
+            "patterns":["common goods"],
+            "responses":["Goods that are non excludable but rivalrous e.g. oxygen, radioactivity, surface of the moon, etc."],
+            "context":["private_goods"]  
+        },
+          {"tag":"private_goods",
+            "patterns":["private goods"],
+            "responses":["Goods that are both excludable and rival in consumption e.g. apples"],
+            "context":["public_goods"]  
+        },
+          {"tag":"transaction_costs",
+            "patterns":["transaction cost"],
+            "responses":["The costs in time and other resources that parties incur in the process of agreeing to and carrying out an exchange of goods and services"],
+            "context":[""]  
+        },
+          {"tag":"price_elasticity_of_supply",
+            "patterns":["price elasticity of supply"],
+            "responses":["A measure of how much the quantity supplied of a good responds to a change in the price of that good, computed as the percentage change in quantity supplied divided by the percentage change in price"],
+            "context":["price_elasticity_of_income"]  
+        },
+          {"tag":"price_elasticity_of_income",
+            "patterns":["price elasticity of income"],
+            "responses":["A measure by what percentage will the demand for good i change when the income of individuals increases by 1%?"],
+            "context":["price_elasticity_of_demand"]  
+        },
+          {"tag":"price_elasticity_of_demand",
+            "patterns":["price elasticity of demand"],
+            "responses":["A measure of how much the quantity demanded of a good responds to a change in the price of that good, computed as the percentage change in quantity demanded divided by the percentage change in price"],
+            "context":["price_elasticity_of_supply"]  
+        },
         {"tag":"help_law", 
                 "patterns":["I need help with law"],
                 "responses":["Sure, how can I help you?"],
