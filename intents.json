@@ -25,10 +25,25 @@
             "context":[""]  
         },
           {"tag":"theory",
-            "patterns":["What is a theory?", "theory"],
+            "patterns":["theory"],
             "responses":["A theory is a reasonable conjecture about the cuntioning of some aspects of the world."],
             "context":[""]  
         },
+        {"tag":"theory_what",
+          "patterns":["what theory"],
+          "responses":["WHAT: A theory is a reasonable conjecture about the cuntioning of some aspects of the world."],
+          "context":[""]  
+      },
+      {"tag":"theory_when",
+        "patterns":["when theory"],
+        "responses":["WHEN: A theory is a reasonable conjecture about the cuntioning of some aspects of the world."],
+        "context":[""]  
+    },
+    {"tag":"theory_when_what",
+      "patterns":["when what theory"],
+      "responses":["WHEN: WHAT: A theory is a reasonable conjecture about the cuntioning of some aspects of the world."],
+      "context":[""]  
+  },
           {"tag":"bertrand",
             "patterns":["bertrand competition"],
             "responses":["Oligopoly model in which each firm chooses the price of its product"],
@@ -99,11 +114,27 @@
             "responses":["The goal of economics is to maximise utility and hence minimise opportunity costs."],
             "context":[""]  
         },
-          {"tag":"sunk_cost",
-            "patterns":["sunk costs"],
-            "responses":["Sunk costs are costs that have already been incurred and cannot be recovered."],
+        {"tag":"sunk_cost",
+          "patterns":["sunk costs"],
+          "responses":["Sunk costs are costs that have already been incurred and cannot be recovered."],
+          "context":[""]  
+      },
+          {"tag":"why_sunk_cost",
+            "patterns":["why sunk costs"],
+            "responses":["WHY: Sunk costs are costs that have already been incurred and cannot be recovered."],
             "context":[""]  
         },
+
+        {"tag":"what_sunk_cost",
+          "patterns":["what sunk costs"],
+          "responses":["WHAT: Sunk costs are costs that have already been incurred and cannot be recovered."],
+          "context":[""]  
+        },
+         {"tag":"when_sunk_cost",
+          "patterns":["when sunk costs"],
+          "responses":["WHEN: Sunk costs are costs that have already been incurred and cannot be recovered."],
+          "context":[""]  
+         },
           {"tag":"price_discrimination_1",
             "patterns":["first degree price discrimination"],
             "responses":["Charging each individual customer a different price based on their willingness to pay. There is no consumer surplus!"],
@@ -273,166 +304,6 @@
             "patterns":["price elasticity of demand"],
             "responses":["A measure of how much the quantity demanded of a good responds to a change in the price of that good, computed as the percentage change in quantity demanded divided by the percentage change in price"],
             "context":["price_elasticity_of_supply"]  
-        },
-        {"tag":"help_law", 
-                "patterns":["I need help with law"],
-                "responses":["Sure, how can I help you?"],
-                "context":[" "]  
-            },
-              {"tag":"europeen_law", 
-                "patterns":["Help me with europeen law please?"],
-                "responses":[""],
-                "context":[""]  
-            },
-              {"tag":"annul_act", 
-                "patterns":["Annulment of act"],
-                "responses":["1. court of first instance, now general court, first decision/judgement,2. Court of Justice, appeal decision, preliminary ruling also here but without appeal.,Kadi is appeal decision"],
-                "context":[" "]  
-            },
-              {"tag":"accnul_procedure", 
-                "patterns":["Annulment procedure"],
-                "responses":["Art. 173 Rome,Who?,- Council of Ministers,- Commission,- Member state,- Natural people (if direct and individual concern),- Legal people (if direct and individual concern),What?,Acts of council and commission of ministers (except recommendations)"],
-                "context":[" "]  
-            },
-              {"tag":"les_verts_attacking", 
-                "patterns":["What is les vert attacking?"],
-                "responses":["A decision by the bureau of the Eu parliament, challenging lawfulness of measures adopted at EU level, can the Parliament do this or is it member states? seek annulment"],
-                "context":[" "]  
-            },
-              {"tag":"baumbast", 
-                "patterns":["Baumbast 2002"],
-                "responses":["German, living in UK, self-employed, business fails, goes to China, Columbian wife, child both nationalities, has sickness insurance in Germany, goes to Germany for treatments, family stays in UK, applies for residence permit to visit family, rejected,Cannot rely on free movement of workers because no longer works in UK,Baumbast does not have sickness insurance in UK, but money. Would be disproportionate to refuse him right to reside in UK just because emergencies are not covered,-> Fifth fundamental freedom is still conditional on funds and sickness insurance, but here principle of proportionality applies"],
-                "context":[" "]  
-            },
-              {"tag":"baumbast_formula", 
-                "patterns":["Baumbast formula"],
-                "responses":["Netherlands are monist legal order, UK for example is dualist (int. law has first to be incorporated and transposed into national law). Is ratification incorporation? General no, in dualist countries you need transposition (but dualist country can not transposed yet not bring as excuse)"],
-                "context":[" "]  
-            },
-              {"tag":"bosman", 
-                "patterns":["Bosman 1995"],
-                "responses":["Leading case for free movement of workers,was a Belgian who wanted to join a club in France, his old club wanted to much money from the new one for a transfer, LiÃ¨ge refused him, revoked him of first league status, contact between LiÃ¨ge and Bosman ended, salary reduce, contact with Dunkerque, would have had to pay a fee to buy him, others weren't sure he'd pay so let the contract laps, couldn't play, same with other clubs,Normal; 3+2 rule, 3 foreigners + 2 foreigners that have played in that country for more than 5 years,Prior to this case, UEFA was run parallel to regular law ,Normally not in front of regular court, Bosman had to fight to get it to ECJ already"],
-                "context":[" "]  
-            },
-              {"tag":"bosman_legal_basis", 
-                "patterns":["What is the legal basis of the Bosman case?"],
-                "responses":["Art. 48 - free movement of goods, court needed to check if Bosman as individual can invoke that right,Par. 73 - sports only subject if economic activity, appl. of Art. 48 - needed is employment status,Par. 76 - Sport is not separate, so fundamental freedom rights apply,Is there a restriction to free movement?,- fee in domestic and international cases, no discrimination,Problem of market access?,Par. 92 - Obstacle to freedom of movement, restriction even though there is no discrimination,Keck does not apply,3+2 clause is direct discrimination, is also cultural not economic,-> After, players were free to move to another club and can demand market value in terms of salary, contract money, not transfer fee"],
-                "context":[" "]  
-            },
-              {"tag":"amsterdam_treaty", 
-                "patterns":["What was the Amsterdam treaty about?"],
-                "responses":["1997, part of 3rd pillar into first"],
-                "context":[" "]  
-            },
-              {"tag":"Union_Citizenship", 
-                "patterns":["Tell me about the union citizenship"],
-                "responses":["Established with Treaty of Maastricht, citizens of member states automatically become union citizens, increases identification with EU, considered separately from internal market"],
-                "context":[" "]  
-            },
-              {"tag":"cassis", 
-                "patterns":["What was the Cassis de Dijon 1979 case about?"],
-                "responses":["Cassis was produced in France and contained between 15-20 per cent alcohol by volume (ABV). Germany, however, had a law specifying that products sold as fruit liqueurs be over 25 per cent ABV,clearly MEE, justification valid if they are necessary to certify mandatory requirements, rule of reason,2. Mutual recognition of regulation, Germans have to accept French regulations, can start race to bottom for no regulations but court said yes, except for cases of justification based on mandatory requirements,Expanded to other fields, drivers licenses etc. If its good enough for one state, it has to be good enough for another,Lots of secondary judgements, don't directly referred to normally"],
-                "context":[" "]  
-            },
-              {"tag":"Treaty_of_Lisbon", 
-                "patterns":["What is the treaty of Lisbon?"],
-                "responses":["2007, collapsed pillar structure, European community abolished, but still the same differences for voting, implemented right to leave the Union, Established Charter of Fundamental rights"],
-                "context":[" "]  
-            },
-              {"tag":"Traditional_International_Treaties", 
-                "patterns":["What obligations are created with the traditional international treaties?"],
-                "responses":["among member states"],
-                "context":[" "]  
-            },
-              {"tag":"Test_Achats", 
-                "patterns":["Tell me about Test Achats"],
-                "responses":["First case where Court relies on the Charter of Fundamental rights,Gender equality,directive by European Community,Allows members to distinguish on the base of sex for insurance premiums based on proof,Para 26; no time limit, makes it violation of charter of fundamental rights,The ECHR has almost nothing to do with EU, just guideline for EU fundamental rights"],
-                "context":[" "]  
-            },
-              {"tag":"Service_establishment", 
-                "patterns":["What is the difference between service and establishment?"],
-                "responses":["Freedom to provide services = temporary in nature, Freedom of establishment = continuous provision of services, for specific kind of service you need to apply to local law"],
-                "context":[" "]  
-            },
-              {"tag":"Costa_v_enel", 
-                "patterns":["What was the Costa Enel 1964 case about?"],
-                "responses":["Costa (individual) holds shares, refused to pay electricity bill because he didn't agree with what happened in the industry, relied on EEC treaty,Enel was nationalised, against treaty -> Van Gend en Loos violated,Question; relationship between EU law and national law in a direct conflict,International perspective; you cannot argue on basis of domestic law for infringements of international law ,Domestic perspective; Oftentimes stipulates that Constitution (CH; Minarettverbot),regulations -> Directly applicable,Directives -> more general, need for national measure"],
-                "context":[" "]  
-            },
-              {"tag":"francowich", 
-                "patterns":["Who was Francowich?"],
-                "responses":["Worked for an Italian company, salary outstanding, company files for bankruptcy, salary not paid. ,Should have established a fund according to EU community directive, Italy has failed to implement directive properly, so he argues that Italy owes him money,BUT; directive - needs to be adapted first, no direct effect,Question; Can a member state that violates community law and an individual suffers damage be held liable?,Francovich principle; States can be hold liable by individuals ,preliminary ruling"],
-                "context":[" "]  
-            },
-              {"tag":"council_of_europe", 
-                "patterns":["What is the Council of Europe?"],
-                "responses":["an international organisation, comprising 47 member states (EU states, Turkey, Russia etc.) with the mission to safeguard human rights in Europe and as such author or the European Convention of Human Rights (ECHR) and the corresponding court. (ECtHR)"],
-                "context":[" "]  
-            },
-              {"tag":"factortame", 
-                "patterns":["What was Factortame Brasserie du Pecheur about?"],
-                "responses":["Germany; Beer purity law, France no such law, Germany said French company can't market in Germany, firm had lots of damage, claimed reparations from Germany,-> German parliament had adopted law, conscious decision by democratically elected parliament, argues for no liability, ECJ says they have to pay reparations, formula as francovich, is basis here"],
-                "context":[" "]  
-            },
-              {"tag":"Rome_Treaty", 
-                "patterns":["When did the Rome Treaty happen?, What is the Rome Treaty?"],
-                "responses":["1957, part of the movement towards economic unity in Europe; created the European Economic Community (EEC), aim of single market, EU parliament first elected 1979, preventing another war"],
-                "context":[" "]  
-            },
-              {"tag":"francovich_principle", 
-                "patterns":["What is the Francovich principle about?"],
-                "responses":["About secondary law.,to late/not implemented,unconditional,sufficiently precise,-> has direct effect and the state needs to pay reparations,claimants must prove that the directive conferred specific rights on them, identifiable in its wording, and that there is a causal link between the state's failure to implement the directive and the loss suffered"],
-                "context":[" "]  
-            },
-              {"tag":"Nice_treaty", 
-                "patterns":["When did the Nice Treaty happen?, What is the Nice Treaty?"],
-                "responses":["2001, preparation for enlargement, adopt decision making procedure, balance voting"],
-                "context":[" "]  
-            },
-              {"tag":"dassonville", 
-                "patterns":["What was Dassonville (1974) about?"],
-                "responses":["Parallel importing of Scotch Whiskey, normally from UK direct to Belgium (only possible with exclusive license only monopolist has), they went over France and then Belgium, no doubt over origin of product,Competitors had exclusive dealing arrangements with UK exporters, and so they had acquired the whisky from France. However, in France, it was impossible to obtain a certificate because French law did not require certificates.,Dassonville claims that Belgian restriction is Quantitative restriction (Measure having equivalent effect, MME)"],
-                "context":[" "]  
-            },
-              {"tag":"dual_burden", 
-                "patterns":["What was the dual burden theory about?"],
-                "responses":["regulations / rules on goods & services may not be harmonized amongst MS and can require an individual to comply with regulations in a foreign MS that differ from the ones in his domestic MS (e.g. a German bar exam is not valid in Italy)"],
-                "context":[" "]  
-            },
-              {"tag":"natural_person", 
-                "patterns":["Define natural person"],
-                "responses":["Workers, self-employed, services (seek or receive),self-employed and companies are freedom of establishment"],
-                "context":[" "]  
-            },
-              {"tag":"keck", 
-                "patterns":["What is Keck?"],
-                "responses":["A French competition law prohibited retail of products for prices below that which they had been purchased wholesale. The aim of this law was to prevent retailers engaging in 'cut-throat competition' by dumping excess produce onto the market, and forcing competitors out of business. Keck and Mithouard were charged with having sold Picon liqueur and Sati Rouge coffee below the purchase price. They argued that the law would discourage imports because importers are often new entrants to the market, and while trying to acquire market share and brand recognition they may wish to cut prices.,As long as they apply to all traders they must affect them in the same way in law and in fact, if measure is not discriminatory, Dassonville does not apply,never been applied to anything else than goods,the purpose was not to regulate trade. If a rule applies to all traders in the same manner, and affects them in the same way in law and in fact, it is lawful if it is merely a selling arrangement. This was the case for the French anti-dumping rules."],
-                "context":[" "]  
-            },
-              {"tag":"european_council", 
-                "patterns":["What is the european council?"],
-                "responses":["The European Council comprises heads of state of all MS plus the presidents of the European Council and the European Commission, submits advisory opinions to to the European Commission."],
-                "context":[" "]  
-            },
-              {"tag":"european_court", 
-                "patterns":["What is the European Court of Justice?"],
-                "responses":["The European Court of Justice (ECJ) ensures uniform interpretation / application of European law and has the power to settle disputes between Member States (MS) / institutions / businesses aâ€‹nd â€‹ individuals."],
-                "context":[" "]  
-            },
-              {"tag":"executive_branch_eu", 
-                "patterns":["Who is the executive branch of the EU?"],
-                "responses":["European Commission (suggest legislature, one member per state) & European Council (Head of Governments)"],
-                "context":[" "]  
-            },
-              {"tag":"european_parliament", 
-                "patterns":["What is the European Parliament?, What is the EP?"],
-                "responses":["The European Parliament is the directly elected parliament of the EU and as such responsible for deciding on legislation and upholding EU treaties."],
-                "context":[" "]  
-            },
-              {"tag":"free_movement", 
-                "patterns":["What is free movement about?"],
-                "responses":["Art. 45, Art. 49 establishment, Art. 56 services (providing and receiving),Natural person; Workers & Self employed & Services,Legal person; self employed or company, go under freedom of establishment"],
-                "context":[" "]  
             },
         {"tag": "goodbye",
          "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
