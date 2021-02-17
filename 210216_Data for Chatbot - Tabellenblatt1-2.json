@@ -1,0 +1,7 @@
+[
+  {
+     "Tag":[help_law], 
+"Pattern":["I need help with law","Can you help me with law"],
+"Response":["Sure, how can I help you?"],
+"Context":["none"]  },
+  

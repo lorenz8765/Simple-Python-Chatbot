@@ -1,0 +1,86 @@
+[
+  {
+     "Tag":["help_law"], 
+"Pattern":["I need help with law"],
+"Response":["Sure, how can I help you?"],
+"Context":[""]  },
+  {
+     "Tag":["europeen_law"], 
+"Pattern":["Help me with europeen law please?"],
+"Response":[""],
+"Context":[""]  },
+  {
+     "Tag":["annul_act"], 
+"Pattern":["Annulment of act"],
+"Response":["1. court of first instance, now general court, first decision/judgement,,2. Court of Justice, appeal decision, preliminary ruling also here but without appeal.,,Kadi is appeal decision"],
+"Context":[""]  },
+  {
+     "Tag":["accnul_procedure"], 
+"Pattern":["Annulment procedure"],
+"Response":["Art. 173 Rome,,Who?,,- Council of Ministers,,- Commission,,- Member state,,- Natural people (if direct and individual concern),,- Legal people (if direct and individual concern),,What?,,Acts of council and commission of ministers (except recommendations)"],
+"Context":[""]  },
+  {
+     "Tag":["les_verts_attacking"], 
+"Pattern":["What is les vert attacking?"],
+"Response":["A decision by the bureau of the Eu parliament, challenging lawfulness of measures adopted at EU level, can the Parliament do this or is it member states? seek annulment"],
+"Context":[""]  },
+  {
+     "Tag":["baumbast"], 
+"Pattern":["Baumbast 2002"],
+"Response":["German, living in UK, self-employed, business fails, goes to China, Columbian wife, child both nationalities, has sickness insurance in Germany, goes to Germany for treatments, family stays in UK, applies for residence permit to visit family, rejected,,Cannot rely on free movement of workers because no longer works in UK,,Baumbast does not have sickness insurance in UK, but money. Would be disproportionate to refuse him right to reside in UK just because emergencies are not covered,,-> Fifth fundamental freedom is still conditional on funds and sickness insurance, but here principle of proportionality applies"],
+"Context":[""]  },
+  {
+     "Tag":["baumbast_formula"], 
+"Pattern":["Baumbast formula"],
+"Response":["Netherlands are monist legal order, UK for example is dualist (int. law has first to be incorporated and transposed into national law). Is ratification incorporation? General no, in dualist countries you need transposition (but dualist country can not transposed yet not bring as excuse)"],
+"Context":[""]  },
+  {
+     "Tag":["bosman"], 
+"Pattern":["Bosman 1995"],
+"Response":["Leading case for free movement of workers,,was a Belgian who wanted to join a club in France, his old club wanted to much money from the new one for a transfer, LiÃ¨ge refused him, revoked him of first league status, contact between LiÃ¨ge and Bosman ended, salary reduce, contact with Dunkerque, would have had to pay a fee to buy him, others weren't sure he'd pay so let the contract laps, couldn't play, same with other clubs,,Normal; 3+2 rule, 3 foreigners + 2 foreigners that have played in that country for more than 5 years,,Prior to this case, UEFA was run parallel to regular law ,,Normally not in front of regular court, Bosman had to fight to get it to ECJ already"],
+"Context":[""]  },
+  {
+     "Tag":["bosman_legal_basis"], 
+"Pattern":["What is the legal basis of the Bosman case?"],
+"Response":["Art. 48 - free movement of goods, court needed to check if Bosman as individual can invoke that right,,Par. 73 - sports only subject if economic activity, appl. of Art. 48 - needed is employment status,,Par. 76 - Sport is not separate, so fundamental freedom rights apply,,Is there a restriction to free movement?,,- fee in domestic and international cases, no discrimination,,Problem of market access?,,Par. 92 - Obstacle to freedom of movement, restriction even though there is no discrimination,,Keck does not apply,,3+2 clause is direct discrimination, is also cultural not economic,,-> After, players were free to move to another club and can demand market value in terms of salary, contract money, not transfer fee"],
+"Context":[""]  },
+  {
+     "Tag":["amsterdam_treaty"], 
+"Pattern":["What was the Amsterdam treaty about?"],
+"Response":["1997, part of 3rd pillar into first"],
+"Context":[""]  },
+  {
+     "Tag":["Union_Citizenship"], 
+"Pattern":["Tell me about the union citizenship"],
+"Response":["Established with Treaty of Maastricht, citizens of member states automatically become union citizens, increases identification with EU, considered separately from internal market"],
+"Context":[""]  },
+  {
+     "Tag":["cassis"], 
+"Pattern":["What was the Cassis de Dijon 1979 case about?"],
+"Response":["Cassis was produced in France and contained between 15-20 per cent alcohol by volume (ABV). Germany, however, had a law specifying that products sold as fruit liqueurs be over 25 per cent ABV,,clearly MEE, justification valid if they are necessary to certify mandatory requirements, rule of reason,,2. Mutual recognition of regulation, Germans have to accept French regulations, can start race to bottom for no regulations but court said yes, except for cases of justification based on mandatory requirements,,Expanded to other fields, drivers licenses etc. If its good enough for one state, it has to be good enough for another,,Lots of secondary judgements, don't directly referred to normally"],
+"Context":[""]  },
+  {
+     "Tag":["Treaty_of_Lisbon"], 
+"Pattern":["What is the treaty of Lisbon"],
+"Response":["2007, collapsed pillar structure, European community abolished, but still the same differences for voting,, implemented right to leave the Union,, Established Charter of Fundamental rights"],
+"Context":[""]  },
+  {
+     "Tag":["Traditional_International_Treaties"], 
+"Pattern":["What obligations are created with the traditional international treaties"],
+"Response":["among member states"],
+"Context":[""]  },
+  {
+     "Tag":["Test_Achats"], 
+"Pattern":["Tell me about Test Achats"],
+"Response":[""],
+"Context":[""]  },
+  {
+     "Tag":["Costa_v_enel"], 
+"Pattern":["What was the Costa Enel 1964 case about?"],
+"Response":["Costa (individual) holds shares, refused to pay electricity bill because he didn't agree with what happened in the industry, relied on EEC treaty,,Enel was nationalised, against treaty -> Van Gend en Loos violated,Question; relationship between EU law and national law in a direct conflict,,International perspective; you cannot argue on basis of domestic law for infringements of international law ,,Domestic perspective; Oftentimes stipulates that Constitution (CH; Minarettverbot),,regulations -> Directly applicable,,Directives -> more general, need for national measure"],
+"Context":[""]  },
+  {
+     "Tag":["council_of_europe"], 
+"Pattern":["What is the Council of Europe?"],
+"Response":["an international organisation, comprising 47 member states (EU states, Turkey, Russia etc.) with the mission to safeguard human rights in Europe and as such author or the European Convention of Human Rights (ECHR) and the corresponding court. (ECtHR)"],
+"Context":[""]  },

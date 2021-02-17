@@ -1,0 +1,396 @@
+(Factortame Brasserie du Pecheur):
+
+Germany; Beer purity law, France no such law, Germany said French company can't market in Germany, firm had lots of damage, claimed reparations from Germany
+-> German parliament had adopted law, conscious decision by democratically elected parliament, argues for no liability, ECJ says they have to pay reparations, formula as francovich, is basis here
+
+(Francovich principle):
+
+secondary law
+to late/not implemented
+unconditional
+sufficiently precise
+-> has direct effect and the state needs to pay reparations
+claimants must prove that the directive conferred specific rights on them, identifiable in its wording, and that there is a causal link between the state's failure to implement the directive and the loss suffered
+
+(Francowich):
+
+Worked for an Italian company, salary outstanding, company files for bankruptcy, salary not paid. 
+Should have established a fund according to EU community directive, Italy has failed to implement directive properly, so he argues that Italy owes him money
+BUT; directive - needs to be adapted first, no direct effect
+Question; Can a member state that violates community law and an individual suffers damage be held liable?
+Francovich principle; States can be hold liable by individuals 
+preliminary ruling
+
+Amsterdam treaty:
+
+1997, part of 3rd pillar into first,
+
+Annulment of act:
+
+1. court of first instance, now general court, first decision/judgement
+2. Court of Justice, appeal decision, preliminary ruling also here but without appeal 
+Kadi is appeal decision
+
+Annulment procedure:
+
+Art. 173 Rome 
+Who? 
+- Council of Ministers
+- Commission
+- Member state
+- Natural people (if direct and individual concern)
+- Legal people (if direct and individual concern)
+
+What?
+Acts of council and commission of ministers (except recommendations)
+
+Baumbast 2002:
+
+German, living in UK, self-employed, business fails, goes to China, Columbian wife, child both nationalities, has sickness insurance in Germany, goes to Germany for treatments, family stays in UK, applies for residence permit to visit family, rejected
+Cannot rely on free movement of workers because no longer works in UK
+Baumbast does not have sickness insurance in UK, but money. Would be disproportionate to refuse him right to reside in UK just because emergencies are not covered
+-> Fifth fundamental freedom is still conditional on funds and sickness insurance, but here principle of proportionality applies
+
+Baumbast formula:
+
+Sufficient financial resources 
+Long-term employment (past or present) 
+Permanent residence in UK (in person or dependants) 
+no burden to public finances 
+Comprehensive health insurance
+
+Bosman [1995]:
+
+Leading case for free movement of workers
+was a Belgian who wanted to join a club in France, his old club wanted to much money from the new one for a transfer, Liège refused him, revoked him of first league status, contact between Liège and Bosman ended, salary reduce, contact with Dunkerque, would have had to pay a fee to buy him, others weren't sure he'd pay so let the contract laps, couldn't play, same with other clubs
+Normal; 3+2 rule, 3 foreigners + 2 foreigners that have played in that country for more than 5 years
+Prior to this case, UEFA was run parallel to regular law 
+Normally not in front of regular court, Bosman had to fight to get it to ECJ already
+
+Bosman legal basis:
+
+Art. 48 - free movement of goods, court needed to check if Bosman as individual can invoke that right 
+Par. 73 - sports only subject if economic activity, appl. of Art. 48 - needed is employment status
+Par. 76 - Sport is not separate, so fundamental freedom rights apply
+Is there a restriction to free movement?
+- fee in domestic and international cases, no discrimination
+Problem of market access?
+Par. 92 - Obstacle to freedom of movement, restriction even though there is no discrimination
+Keck does not apply
+3+2 clause is direct discrimination, is also cultural not economic
+-> After, players were free to move to another club and can demand market value in terms of salary, contract money, not transfer fee
+
+Cassis de Dijon (1979):
+
+This was produced in France and contained between 15-20 per cent alcohol by volume (ABV). Germany, however, had a law specifying that products sold as fruit liqueurs be over 25 per cent ABV
+clearly MEE, justification valid if they are necessary to certify mandatory requirements, rule of reason
+2. Mutual recognition of regulation, Germans have to accept French regulations, can start race to bottom for no regulations but court said yes, except for cases of justification based on mandatory requirements
+Expanded to other fields, drivers licenses etc. If its good enough for one state, it has to be good enough for another
+Lots of secondary judgements, don't directly referred to normally
+
+Costa v ENEL (1964):
+
+Costa (individual) holds shares, refused to pay electricity bill because he didn't agree with what happened in the industry, relied on EEC treaty
+Enel was nationalised, against treaty -> Van Gend en Loos violated
+Question; relationship between EU law and national law in a direct conflict 
+International perspective; you cannot argue on basis of domestic law for infringements of international law 
+Domestic perspective; Oftentimes stipulates that Constitution (CH; Minarettverbot)
+regulations -> Directly applicable
+Directives -> more general, need for national measure
+
+Costa v ENEL:
+
+The supremacy of EU law, Principle of Primacy of Community law
+national law was nationalisation, international law prohibits it 
+Community law has to take precedence, otherwise community would be deprived of its character, would call the legal basis of community under question
+Central message; there is a new legal order, the center of which is the individual with their rights rather than the member states
+constitutional principle primarcy
+
+Council of Europe:
+
+an international organisation, comprising 47 member states (EU states, Turkey, Russia etc.) with the mission to safeguard human rights in Europe and as such author or the European Convention of Human Rights (ECHR) and the corresponding court. (ECtHR)
+
+Dassonville (1974):
+
+Parallel importing of Scotch Whiskey, normally from UK direct to Belgium (only possible with exclusive license only monopolist has), they went over France and then Belgium, no doubt over origin of product
+Competitors had exclusive dealing arrangements with UK exporters, and so they had acquired the whisky from France. However, in France, it was impossible to obtain a certificate because French law did not require certificates.
+Dassonville claims that Belgian restriction is Quantitative restriction (Measure having equivalent effect, MME)
+
+Draft constitution:
+
+to simplify and make more transparent, Veto Netherlands and France
+
+Dual Burden Theory:
+
+regulations / rules on goods & services may not be harmonized amongst MS and can require an individual to comply with regulations in a foreign MS that differ from the ones in his domestic MS (e.g. a German bar exam is not valid in Italy)
+
+European Council:
+
+comprises heads of state of all MS plus the presidents of the European Council and the European Commission, submits advisory opinions to to the European Commission.
+
+European Court of Justice (ECJ):
+
+ensures uniform interpretation / application of European law and has the power to settle disputes between Member States (MS) / institutions / businesses a​nd ​ individuals.
+
+European Parliament (EP):
+
+is the directly elected parliament of the EU and as such responsible for deciding on legislation and upholding EU treaties.
+
+Executive:
+
+European Commission (suggest legislature, one member per state) & European Council (Head of Governments)
+
+Free movement (Bosman Ex.):
+
+Art. 45, Art. 49 establishment, Art. 56 services (providing and receiving)
+Natural person; Workers & Self employed & Services
+Legal person; self employed or company, go under freedom of establishment
+
+Fundamental freedoms:
+
+in EU context usually refers to the four freedoms, laid out in the TFEU, namely free movements of goods / persons / services / capital implying also freedom of establishment
+
+Gebhard (1995), first case for freedom of establishment:
+
+Lawyer, goes to Italy to work, falls under freedom of establishment, has qualifications from Germany but not Italy, so they don't want him to call himself "avvocatti" because he did not pass the Italian Bar. 
+Freedom of services here subordinate to Freedom of Establishment 
+A person can have more than one establishment, so in Germany and Italy
+-> He is bound by German and Italian rules
+Para. 36; You must comply with host state regulations 
+4 requirements must be fulfilled for such a measure and restriction to be lawful; 
+- applied in a non-discriminatory manner
+- public interest
+- suitable for attaining pursued objective
+- necessary
+
+Gebhard formula:
+
+public interest
+suitable for attainment
+not beyond what is necessary
+non-discriminatory
+
+Human Rights (EU, ECHR):
+
+European community was initially about economics, fundamental freedoms as heart of community, implemented by member states, preliminary ruling procedure
+Fundamental rights/human rights belonged to sphere of state, not featured prominently in the EU because no economic dimension
+Problem; What if a member state implements law of community which is in conflict with fundamental right?
+Question of primarcy -> Law of Eu precedence over national law (costa Enel)
+EU -> Sphere that bleeds into member states, authority in not bound to human rights (avoided since WW2)
+
+Inernationale Handelsgesellschaft mbH vs. Einfuhr- und Vorratsstelle für Getreide und Fuhrmittel:
+
+Fundamental rights in the EU
+We will need to enquire whether there is something similar like fundamental rights in the treaty, otherwise vacuum
+trader has to submit deposit that can be lost according to EU legislation but not according to German constitution 
+par. 3; EU law takes precedence over national law because that's the nature of community law, risk of vacuum as there was no EU law for that 
+Catalogue of fundamental rights binds member states when they implement EU law and which individuals can rely on implemented
+Empowerment of ECJ and individual 
+Nice summit -> Charter of fundamental rights 
+2009 Lisbon treaty; Member states agree to make charter binding, same legal position as treaties
+ECHR legally binding for EU, European court of human rights in Strassbourg gained jurisdiction over EU -> Above EJC
+The case is important because it addresses what appears to be one of the most difficult challenges facing the acceptance of the supremacy of European law within the German legal order, that is, the possibility of conflict between a European law obligation and a fundamental right protected by the German Constitution. it was virtually impossible that the national courts would accept European law supremacy without a guarantee of human rights protection. In this light, the significance of Internationale Handelsgesellschaft was that the European Court of Justice itself took on a role protecting the fundamental rights of individuals in the European legal order
+
+Infringement procedure:
+
+legal procedure set in motion against a member state if it does not comply with EU legislation, by Member state or commission, can adopt fine
+
+Judiciary:
+
+European Court of Justice
+
+Kadi Question:
+
+What was the legal basis to adopt this into the first pillar? sanctions against private person no clause (only states)
+Can courts in UN member states review the legality of resolutions in light of national/community law? Is it possible for ECJ to review the legality of SC resolutions in light of the fundamental rights of the EU?
+International or domestic law primacy?
+Ius cogens, can't be violated, peremptory norm, like don't do genocide 
+Found no violation of jus cogens
+second instance; ECJ
+trick; focusses on community regulation, not international measure from SC whose measures can't be reviewed apart from jus cogens, so they can fully review in light of all principles and not just jus cogens, see a clear violation of fundamental rights of the EU, but only review the domestic EU implementation, not the decision of the SC
+EU legislation can be reviewed, not SC decision 
+EU does not give the opportunity for sanctions against individuals
+
+Kadi:
+
+citizen of Saudi Arabia, funds in EU were frozen because Al Qaeda suspect 
+Origin of suspect is security council resolution from 1999, ordering EU states to freeze funds of suspects 
+person is included if member state proposes it
+sanction committee oversees implementation of "smart sanctions" against specific individuals 
+resolution must be implemented in EU states
+second pillar, so unanimity 
+establishes restriction on free movement of capital, also needs to be implemented in first pillar 
+Kadi is added to list -> no money = no food and defence
+-> exception for money to survive and lawyers
+Very difficult to get off list
+Mr. Kadi goes to court, ECJ, attacks first pillar (where ECJ has jurisdiction, not like second), violates fundamental right to property, fair process (wasn't able to defend himself), therefore seeks annulment of act
+
+Keck:
+
+A French competition law prohibited retail of products for prices below that which they had been purchased wholesale. The aim of this law was to prevent retailers engaging in 'cut-throat competition' by dumping excess produce onto the market, and forcing competitors out of business. Keck and Mithouard were charged with having sold Picon liqueur and Sati Rouge coffee below the purchase price. They argued that the law would discourage imports because importers are often new entrants to the market, and while trying to acquire market share and brand recognition they may wish to cut prices.
+As long as they apply to all traders they must affect them in the same way in law and in fact, if measure is not discriminatory, Dassonville does not apply 
+never been applied to anything else than goods
+the purpose was not to regulate trade. If a rule applies to all traders in the same manner, and affects them in the same way in law and in fact, it is lawful if it is merely a selling arrangement. This was the case for the French anti-dumping rules.
+
+Legislative:
+
+European Parliament (1.)& Council of Ministers (ministers of member states meet, according to topic - agricultural ministers etc) (3.)
+
+Les Verts 1986 issue:
+
+Situation is not addressed by Art 173 as legal person brings claim against an act of PARLIAMENT, not mentioned as it had weaker role, was not designed to take decisions (now distribution of money to parties), ECJ did not reject jurisdiction, take broad understanding of act, stones towards EU becoming something bigger
+
+Les verts EU parliament argument:
+
+Doubt if Les verts is legal person, rejected by ECJ
+
+Maastricht Treaty 1992:
+
+establishing 3 pillars
+1. Rome Treaty, common market
+2. Common foreign and security policy
+3. Justice and home affairs
+Because; the first pillars decision making was by qualified majority, 2&3 every state has veto
+Union Citizenship
+
+Maria Martinez Sala vs. Freistaat Bayern:
+
+Came to Germany from Spain to work, applied for child allowance
+did not have a formal residence permit, which is only the paper saying that she has it, she has the right to stay, which is an additional criteria so she said she is discriminated
+Germany; Not Personal/substantive scope, Court said it is 
+Art. 59; Union citizenship
+Art. 60; Has right to be in Germany 
+Art. 61; Lawful residence, union citizenship -> within scope of ration personae (you are employed), has personal and substantive scope
+Can't tell if she is covered because not sure if she was a worker, employed person would also include self-employment
+Now, question; What does it mean that she has EU citizenship? Covered by non-discrimination?Yes, you don't need to be employed for that!
+So she is entitled to benefits
+requirement for permit unlawful 
+Biggest step towards widen scope of treaty, before we thought you can refuse someone residency if they don't work or if you don't have money and a health insurance 
+-> Creation of "New firth freedom"
+
+MME:
+
+- measure that is capable, actually or potentially, of having equivalent effect, you don't have to prove that there is an actual effect -> very broad scope
+Consequence of Van Gend en Loos (direct effect) and Costa ENEL (primary)
+
+Natural person:
+
+Workers, self-employed, services (seek or receive)
+self-employed and companies are freedom of establishment
+
+Nice treaty:
+
+2001, preparation for enlargement, adopt decision making procedure, balance voting
+
+preliminary procedure:
+
+Act by legislative bodies, passed to member states, national authorities implement, citizens go to domestic court, court can send question to ECJ and request preliminary ruling and ask how it shall be interpreted, ECJ writes down ruling and hands it to domestic court, preliminary ruling is binding, request is not mandatory for lower courts, but for Supreme courts
+
+Principles underlying free movement of persons, goods, capital, labour:
+
+No direct discrimination (national measure ties with nationality, Ex. different taxes)
+no indirect discrimination (saying resident and not resident to discriminate)
+no obstacles to market access (ban ads for foreign products)
+
+Progressive/modern Treaties:
+
+Concluded among member states, concern individual, eg. Human rights (> can individuals claim rights based on that treaty against international act?), have direct effect, rarely direct applicable, must be implemented into domestic law first
+
+Result of Les verts:
+
+European Parliament did not have power to regulate elections of EU Parliament, is a matter of national regulation
+
+Rome Treaty:
+
+1957- part of the movement towards economic unity in Europe; created the European Economic Community (EEC), aim of single market, EU parliament first elected 1979, preventing another war
+
+Säger formula:
+
+public interest
+not allowed in another country with a similar context
+not beyond what is necessary
+non discriminatory
+
+Säger:
+
+Provides services to renew patents (just need to send a note in time) in Germany, high regulations who can offer this in Germany, nearly no in UK, UK services expand, Säger sues because he's loosing market
+But no establishment, only free movement of service!
+Only about this service, not risky service
+-> A licence per se is a restriction
+
+Secondary legislation citizenship:
+
+possible for citizens of member states to go abroad 
+3 categeories; 
+- pensioners
+- playboys
+- students
+Conditions; 
+- sufficient resources
+- sickness insurance
+
+Sejdic & Finci:
+
+VOM COUNCIL OF EUROPE; EUROPEAN CONVENTION ON HUMAN RIGHTS, sonst sind es fundamental rights in the EU
+Roma/Jew want to run for office but can't as they are not affiliated wit one of the 3 constitutional peoples (Serbs, Bosniacs, croats), which is prerequisite to run 
+1995 Dayton agreement has constitution of Bosnia & herzegovina, represents these 3 
+Sejdic & Finci claim this violates ECHR
+Art. 14; You can only claim non-discrimination if you claim another violation at the same time (discriminated in exercise of freedom of press etc)
+Right to fair and free elections only for parliament, as executive is often elected by parliament
+If a state ratified protocol 12, then members can claim a violation of art. 14 regardless if another right was touched
+-> First case of this
+System with regards to parliament violates ECHR and is not justifiable 
+-> First time ECHR has found that constitutional provision violate convention
+ECHR ist vom council of Europe, ganz was anderes als davor!
+
+Service/establishment difference:
+
+Freedom to provide services = temporary in nature 
+Freedom of establishment = continuous provision of services, for specific kind of service you need to apply to local law
+
+Test Achats:
+
+First case where Court relies on the Charter of Fundamental rights 
+Gener equality directive by European Community
+Allows members to distinguish on the base of sex for insurance premiums based on proof 
+Para 26; no time limit, makes it violation of charter of fundamental rights 
+The ECHR has almost nothing to do with EU, just guideline for EU fundamental rights
+
+Traditional International Treaties:
+
+only create obligations among member states
+
+Treaty of Lisbon:
+
+2007, collapsed pillar structure, European community abolished, but still the same differences for voting (Articles changed here)
+implemented right to leave the Union
+Established Charter of Fundamental rights
+
+Union Citizenship:
+
+Established with Treaty of Maastricht, citizens of member states automatically become union citizens, increases identification with EU, considered separately from internal market
+
+Van Gend en Loos (1963):
+
+The case arose from the reclassification of a chemical, by the Benelux countries, into a customs category entailing higher customs charges.
+Import duty infringes Art. 12, cannot raise import fees (=standstill clause), preliminary question, Dutch court refers to ECJ
+Question; Is the EEC a traditional treaty or a progressive treaty (stipulating directly applicable rights)
+New bilateral treaties with the EU there is a clause saying "this treaty shall not have direct effect" because of this case
+
+Van Gend en Loos court:
+
+(fact that EEC mentions people is not a good argument, UN charter same and not directly applicable)
+"EU is a new legal order, national states have given up national legislation, so EU law is automatically part of national legislation", so you can rely on it directly in court?
+in order to have direct effects, articles must only be clear and unconditional
+If no direct effects, the EU would be ineffective, the preliminary ruling would not make sense
+Taking the treaty away from states and giving it to people -> Transformation of Treaty to Constitution, supranational
+Constitutional principle direct effect
+
+Van Gend en Loos problem:
+
+higher Duty towards company, but Art. 12 Stand still clause
+Netherlands are monist legal order, UK for example is dualist (int. law has first to be incorporated and transposed into national law). Is ratification incorporation? General no, in dualist countries you need transposition (but dualist country can not transposed yet not bring as excuse)
+
+What is les vert attacking?:
+
+A decision by the bureau of the Eu parliament, challenging lawfulness of measures adopted at EU level, can the Parliament do this or is it member states? seek annulment
