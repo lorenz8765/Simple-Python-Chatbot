@@ -84,7 +84,7 @@ def send():
         ChatLog.yview(END)
 
 
-ase = Tk()
+base = Tk()
 base.title("StudentBot of the University of St.Gallen")
 base.config(bg="dark green")
 base.geometry("400x500")
