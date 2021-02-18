@@ -1,17 +1,24 @@
+#Natural Language Toolkit
 import nltk
+#punkt sentence tokenizer
 nltk.download('punkt')
+#a lexical database for English
 nltk.download('wordnet')
+#convert words into their base form
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
+#json and pickle files
 import json
 import pickle
-
+#Numerical python
 import numpy as np
+#deep learning application programming interface
 from keras.models import Sequential
 from keras.layers import Dense, Activation, Dropout
 from keras.optimizers import SGD
 import random
 
+#creating empty lists and opening our training file
 words=[]
 classes = []
 documents = []
@@ -19,20 +26,21 @@ ignore_words = ['?', '!']
 data_file = open('intents.json').read()
 intents = json.loads(data_file)
 
-
+#Classifying
 for intent in intents['intents']:
     for pattern in intent['patterns']:
 
-        # take each word and tokenize it
+        # take each word and tokenize it and add it to the words list
         w = nltk.word_tokenize(pattern)
         words.extend(w)
-        # adding documents
+        # adding documents 
         documents.append((w, intent['tag']))
 
         # adding classes to our class list
         if intent['tag'] not in classes:
             classes.append(intent['tag'])
-
+            
+#lemmatize words and sort them
 words = [lemmatizer.lemmatize(w.lower()) for w in words if w not in ignore_words]
 words = sorted(list(set(words)))
 
@@ -44,7 +52,7 @@ print (len(classes), "classes", classes)
 
 print (len(words), "unique lemmatized words", words)
 
-
+#add words and classes to a pickle file
 pickle.dump(words,open('words.pkl','wb'))
 pickle.dump(classes,open('classes.pkl','wb'))
 
@@ -52,7 +60,7 @@ pickle.dump(classes,open('classes.pkl','wb'))
 training = []
 output_empty = [0] * len(classes)
 for doc in documents:
-    # initializing bag of words
+    # initializing bag of words 
     bag = []
     # list of tokenized words for the pattern
     pattern_words = doc[0]
