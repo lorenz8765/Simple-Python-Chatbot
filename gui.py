@@ -1,4 +1,4 @@
-
+# Import libraries
 import nltk
 from nltk.stem import WordNetLemmatizer
 lemmatizer = WordNetLemmatizer()
@@ -13,14 +13,15 @@ intents = json.loads(open('intents.json').read())
 words = pickle.load(open('words.pkl','rb'))
 classes = pickle.load(open('classes.pkl','rb'))
 
-
+# return a list of single/tokenized and lemmatized words
 def clean_up_sentence(sentence):
+    # take input string and break it into a list of single words (called tokenization)
     sentence_words = nltk.word_tokenize(sentence)
+    # transform each word into its lemma, this is the root meaning of a word (called lemmatization)
     sentence_words = [lemmatizer.lemmatize(word.lower()) for word in sentence_words]
     return sentence_words
 
 # return bag of words array: 0 or 1 for each word in the bag that exists in the sentence
-
 def bow(sentence, words, show_details=True):
     # tokenize the pattern
     sentence_words = clean_up_sentence(sentence)
@@ -35,6 +36,7 @@ def bow(sentence, words, show_details=True):
                     print ("found in bag: %s" % w)
     return(np.array(bag))
 
+# get a dictionary containing the intent and the corresponding probability  
 def predict_class(sentence, model):
     # filter out predictions below a threshold
     p = bow(sentence, words,show_details=False)
@@ -48,17 +50,21 @@ def predict_class(sentence, model):
         return_list.append({"intent": classes[r[0]], "probability": str(r[1])})
     return return_list
 
+# get corresponding response/answer to the most likely intent
 def getResponse(ints, intents_json):
     tag = ints[0]['intent']
     list_of_intents = intents_json['intents']
     for i in list_of_intents:
         if(i['tag']== tag):
+            # choose randomly one of the predefined responses
             result = random.choice(i['responses'])
             break
     return result
 
 def chatbot_response(msg):
+    # get intents of input
     ints = predict_class(msg, model)
+    # use these intents to get response
     res = getResponse(ints, intents)
     return res
 
