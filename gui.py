@@ -57,6 +57,7 @@ def getResponse(ints, intents_json):
     for i in list_of_intents:
         if(i['tag']== tag):
             # choose randomly one of the predefined responses
+            # only applicable for general answers in our case
             result = random.choice(i['responses'])
             break
     return result
