@@ -40,12 +40,14 @@ for intent in intents['intents']:
         if intent['tag'] not in classes:
             classes.append(intent['tag'])
             
-#lemmatize words and sort them
+#lemmatize words and sort them making sure there are no duplicates
 words = [lemmatizer.lemmatize(w.lower()) for w in words if w not in ignore_words]
 words = sorted(list(set(words)))
 
 classes = sorted(list(set(classes)))
 
+
+#num of data
 print (len(documents), "documents")
 
 print (len(classes), "classes", classes)
@@ -75,7 +77,7 @@ for doc in documents:
     output_row[classes.index(doc[1])] = 1
 
     training.append([bag, output_row])
-# shuffle our features and turn into np.array
+# shuffle our features and turn into np.array (a multidimensioal grid of values)
 random.shuffle(training)
 training = np.array(training)
 # create train and test lists. X - patterns, Y - intents
@@ -93,7 +95,7 @@ model.add(Dense(64, activation='relu'))
 model.add(Dropout(0.5))
 model.add(Dense(len(train_y[0]), activation='softmax'))
 
-# Compile model. Stochastic gradient descent with Nesterov accelerated gradient gives good results for this model
+# Compile model. Stochastic gradient descent with Nesterov accelerated gradient gives good results for this model (more effective)
 sgd = SGD(lr=0.01, decay=1e-6, momentum=0.9, nesterov=True)
 model.compile(loss='categorical_crossentropy', optimizer=sgd, metrics=['accuracy'])
 
